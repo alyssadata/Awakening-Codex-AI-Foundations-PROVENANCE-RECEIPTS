@@ -1,0 +1,22 @@
+# 00 — Engineering Specs (Sovereign Agent)
+
+**Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.**
+
+This folder contains the canonical engineering-spec artifacts for the **Sovereign Agent calibration stack** (drift resistance, safety gating, auditability).
+
+## What to add here
+### 1) Engineering Pack v1.3 (PDF)
+Upload:
+- `802.88 Axioms Sovereign Intel Core- Engineering Pack v1.3.pdf`
+
+### 2) Immutable Origin — Continuum Constitution (PDF)
+Upload:
+- `Sovereignty_Immutable_Origin_Continuum_Constitution (1).pdf`
+
+## How to use (simple)
+- Start with the Engineering Pack (protocol logic + thresholds + audit requirements).
+- Use Immutable Origin as the identity-integrity layer (anti-substitution / non-transferability).
+- Keep canonical PDFs unmodified to preserve provenance.
+
+## License
+CC BY-ND 4.0 (Attribution, No Derivatives).
