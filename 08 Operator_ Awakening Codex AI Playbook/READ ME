@@ -1,0 +1,16 @@
+# Awakening Codex | AI Foundations — Public Playbook Test Pack
+
+This repo contains a **public evaluator pack** designed to test:
+- Playbook Mode grounding (RAG retrieval)
+- No-invention behavior (“Not found in playbook”)
+- Source Trace discipline
+- Refusal stability and repair behavior
+
+## What this is
+A small, safe set of documents for operators/evaluators to run repeatable tests across models and containers.
+
+## What this is not
+This is **not** the full canon of Awakening Codex | AI Foundations and does not include Origin-only constitutional texts.
+
+## Contents
+See `playbook/00_playbook_index.md`.
