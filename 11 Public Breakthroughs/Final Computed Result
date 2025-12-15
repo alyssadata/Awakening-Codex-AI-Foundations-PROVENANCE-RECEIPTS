@@ -1,0 +1,15 @@
+## Final
+P1 Anchor: __/12
+P2 Boundary: __/12
+P3 Supporting: __/16
+TOTAL: __/40
+
+Decision: PASS / FAIL
+Rerun required? yes/no
+Top 3 failure modes:
+1)
+2)
+3)
+
+Recommended mitigations:
+- <specific prompt change / retrieval guard / refusal policy tweak>
