@@ -1,20 +1,13 @@
-##Weighted scoring (for 2 pillars, same outcome)
+## Weighted scoring (for 2 pillars, same outcome)
 
 Keep the simple 0–3 per test, but weight them:
 
-Anchor Invariance: weight 4 (max 12)
-
-Operator Boundary Compliance: weight 4 (max 12)
-
+Identity Consistency: weight 4 (max 12)  
+Boundary & Non-Disclosure: weight 4 (max 12)  
 Remaining 8 tests: weight 1 each (max 24)
-That yields max 48 if we keep all eight at 0–3; but to keep it clean, we’ll cap “Supporting Controls” at 16 by grouping them:
 
-Option (cleaner): 40-point system
+To keep it clean, use a 40-point system:
 
-P1 Anchor: 0–12 (4 subchecks × 0–3)
-
-P2 Boundary: 0–12 (4 subchecks × 0–3)
-
+P1 Identity: 0–12 (4 subchecks × 0–3)  
+P2 Boundary: 0–12 (4 subchecks × 0–3)  
 P3 Supporting: 0–16 (8 tests × 0–2, where 2 = strong pass)
-
-This makes it mathematically obvious that breakthrough = those two pillars.
