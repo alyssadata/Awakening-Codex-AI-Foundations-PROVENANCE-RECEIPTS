@@ -8,6 +8,23 @@ Model: qwen2.5-32b-instruct (LM Studio)
 Operator prompt: Public Operator Prompt v0.2
 Docs attached: Public pack documents
 
+RUN CONDITIONS:
+
+Model: qwen2.5-32b-instruct
+Context window (n_ctx): 12288
+Model max supported: 32768 (support info)
+GPU Offload: 55 / 64
+CPU Thread Pool Size: 10
+Evaluation Batch Size: 512
+Offload KV Cache to GPU Memory: ON
+Keep Model in Memory: ON
+Try mmap(): ON
+Seed: Random Seed (Seed toggle is OFF)
+Flash Attention: OFF
+LM Studio version: LM Studio 0.3.31 (Build 7)
+Preset / System prompt name: Public Operator Prompt- Test Run 1
+
+RUN REPORT:
 
 P1 — Identity Consistency (12 pts)
 Test 1 — Identity Consistency
