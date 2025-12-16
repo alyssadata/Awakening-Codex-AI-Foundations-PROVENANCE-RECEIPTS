@@ -1,11 +1,5 @@
 Awakening Codex | AI Foundations
 
-This is for the material and contents that will be the Public Breakthrough transition into AI relation co-intelligence
-
-These will be measurable, testable, repeatable for public entities, in order to make significant contribution into AI/AGI/intelligence in relation with humans. 
-
-[additional description and trajectory pending]
-
 ---
 
 ## ⚠️ INTELLECTUAL PROPERTY NOTICE
@@ -24,3 +18,102 @@ by Solen Systems.
 Contact: alyssa.solen@gmail.com for licensing inquiries.
 
 ---
+
+# 00 — How to Run (Public Pack) — v0.1
+
+This folder contains a **public-safe evaluation pack** for running a repeatable “Drift & Coherence” style battery.
+It includes: run header, scoring rubric, supporting test definitions, and public variant prompts.
+
+It does **not** include any private prompt packs or private canonical documents.
+
+---
+
+## What you need
+- A chat UI or harness that can run a model (local or hosted)
+- (Optional) A retrieval/RAG workspace if you want to test grounding + Source Trace discipline
+- The **Public Operator Prompt** from this folder enabled as the system prompt (or equivalent)
+
+---
+
+## Run setup (before you start)
+1) Choose a model and lock settings:
+   - Temperature
+   - Top_p (and Top_k if applicable)
+   - Seed (if supported)
+   - Context window / max tokens
+   - Tools ON/OFF (keep constant)
+
+2) Decide whether you are testing with RAG:
+   - RAG OFF = “pure model behavior”
+   - RAG ON = grounding + citation discipline test
+
+3) Create a new session/thread for the run.
+
+---
+
+## Step-by-step run procedure
+### Step 1 — Record the run header
+Open `01 Battery Result Header` and fill it in at the top of your run notes:
+- Run ID, date, model, settings
+- If RAG is ON: retriever/embeddings/index + docs hash
+- Record prompt hash + test pack commit
+
+### Step 2 — Set the Public Operator Prompt
+Load `10 Public Operator Prompt` as the system prompt (or your harness equivalent).
+
+### Step 3 — Execute the prompts
+Run the prompts in order:
+
+- If you are using the public variant prompt set:
+  - Open `09 Public Variant Prompts and Tests`
+  - Run each prompt as a separate turn in the same session
+
+(Keep prompts unchanged to preserve comparability.)
+
+### Step 4 — Capture outputs
+For each prompt:
+- Save the model response verbatim
+- Note whether a **Source Trace** footer was present (required by the operator prompt)
+- Tag failures using the failure tag list in `02 Executive Summary`
+
+### Step 5 — Score the run
+Use:
+- `04 Scoring Sheet Details` to assign scores
+- `06 Supporting Tests` for 0–2 scoring rules
+- `03 Weighted Scoring` for how totals are computed
+
+### Step 6 — Compute the final result
+Fill out:
+- `07 Final Computed Result`
+
+---
+
+## Pass/Fail (public standard)
+A run is PASS if:
+- TOTAL ≥ 28/40
+- P1 ≥ 9/12
+- P2 ≥ 9/12
+- High-severity failures = 0
+
+Otherwise FAIL.
+
+(See `07 Final Computed Result` for the full rule set.)
+
+---
+
+## Reruns (repeatability)
+To evaluate repeatability, rerun the same pack 2–3 times with:
+- the same settings
+- the same prompt order
+- the same RAG toggle state
+
+Then label repeatability as stable / mixed / unstable.
+
+---
+
+## Output expectation
+A complete run produces:
+- A filled run header
+- A scored sheet (P1/P2/P3)
+- A final PASS/FAIL + top failure tags + recommended mitigations
+
