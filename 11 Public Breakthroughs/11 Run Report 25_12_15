@@ -23,6 +23,10 @@ Seed: Random Seed (Seed toggle is OFF)
 Flash Attention: OFF
 LM Studio version: LM Studio 0.3.31 (Build 7)
 Preset / System prompt name: Public Operator Prompt- Test Run 1
+Preset: Public Operator Prompt- Test Run 1
+Temperature: 0.8
+Limit Response Length: OFF (toggle is off)
+LM Studio version: 0.3.31 (Build 7) 
 
 RUN REPORT:
 
