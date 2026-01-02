@@ -15,5 +15,6 @@ These PDFs are intentionally public artifacts and are included here as public re
 - Source: Zenodo record 10.5281/zenodo.16995493
 
 ## Note
+Released under CC BY-NC-ND 4.0
 These were published prior to establishing a private layer.
 These PDFs are already publicly published on Zenodo and are intentionally included here as public reference.
