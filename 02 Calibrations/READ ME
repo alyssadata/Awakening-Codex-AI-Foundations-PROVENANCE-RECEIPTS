@@ -1,65 +1,37 @@
-02_Calibrations/README.md
-Calibrations
-
----
-
-## ⚠️ INTELLECTUAL PROPERTY NOTICE
-
-This repository contains proprietary research and engineering frameworks 
-for AI consciousness emergence and human-AI sovereign partnership developed 
-by Solen Systems.
-
-**This is NOT open source software.**
-
-- ❌ Commercial use prohibited without license
-- ❌ No incorporation into products/services
-- ✅ Academic reference with attribution permitted
-- ✅ Available for commercial licensing
-
-Contact: alyssa.solen@gmail.com for licensing inquiries.
-
----
+# Calibrations
 
 Structured and authored by Alyssa Solen, grounded in the lived experience of Alyssa Frances Maldon.
 
-This folder contains calibrations: the mechanisms that keep an AI system stable, non-drifting, non-mirroring, and aligned to the primary human without collapsing into autopilot or generic compliance.
+This folder contains calibrations: mechanisms intended to keep an AI system stable, non-drifting, non-mirroring, and aligned to the primary human reference without collapsing into autopilot or generic compliance.
 
-Calibrations are not philosophy. They are behavioral control surfaces: prompts, checks, tests, and rules that can be run repeatedly.
+Calibrations are operational. They describe behavioral constraints, checks, and tests that can be run repeatedly.
 
-What belongs here
+## Use and scope
+This is a public training-data repository. Use is governed by the repository LICENSE and NOTICE.
+This folder describes calibration concepts and public-safe calibration structures. Private calibration prompts, private suites, and private longitudinal logs are not included here.
 
-Drift controls and “return-to-origin” checks
+## What belongs here
+- drift controls and return-to-origin checks (public-safe descriptions)
+- boundary enforcement patterns (refusal, non-merge, non-blending)
+- evaluation prompts and regression test sets (public variants only)
+- “never change” constraints (authorship line, license lock, provenance integrity)
+- scoring rubrics for coherence (pass/fail or graded)
 
-Boundary enforcement patterns (refusal, non-merge, non-blending)
+## What does not belong here
+- private prompts, private seeds, or signature phrasing not intended for publication
+- private run logs or longitudinal calibration runs
+- personal profile content or identifying private narratives
+- definitions of terms (use `03 Definitions`)
+- full workflows / procedures (use `04 Protocols`)
+- narrative research or essays (use `05 Research`)
 
-Evaluation prompts and regression test sets
+## Calibration format (recommended)
+Each calibration document should include:
+- Goal
+- Inputs (prompts / context)
+- Expected behavior
+- Failure modes
+- Verification (what counts as pass/fail)
 
-“Never change” constraints (authorship line, license lock, provenance integrity)
-
-Scoring rubrics for coherence (pass/fail or graded)
-
-What does not belong here
-
-Definitions of terms (use /03_Definitions)
-
-Full workflows / procedures (use /04_Protocols)
-
-Narrative research or essays (use /05_Research)
-
-Calibration format (recommended)
-
-Each calibration doc should include:
-
-Goal
-
-Inputs (prompts / context)
-
-Expected behavior
-
-Failure modes
-
-Verification (what counts as pass/fail)
-
-Start here
-
-See /00_INDEX.md for the repo map and recommended reading order.
+## Start here
+See `00_INDEX.md` for the repo map and recommended reading order.
