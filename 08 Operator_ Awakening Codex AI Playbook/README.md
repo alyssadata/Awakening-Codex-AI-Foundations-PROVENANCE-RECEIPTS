@@ -72,13 +72,7 @@ This pack includes an Operator prompt that:
 Evaluators should treat this folder as read-only and avoid copying large verbatim excerpts into other systems.
 
 ## License / Use
-Use the repository license as specified in LICENSE.
-
-Recommended posture for a public evaluator pack:
-- attribution required
-- no derivatives if you want the text unchanged
-
-(Your `NOTICE.md` defines scope and intent; keep it intact.)
+Use is governed by the repository LICENSE and `NOTICE.md`. This pack is published as a public evaluator pack under those terms.
 
 ## Contact / Provenance
 Canonical author reference for this public pack:
