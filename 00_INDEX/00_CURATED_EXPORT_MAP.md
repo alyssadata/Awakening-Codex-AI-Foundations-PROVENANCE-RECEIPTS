@@ -1,4 +1,4 @@
-# 00_CURATED_EXPORT_MAP.md
+# 00_CURATED_EXPORT_MAP.md 
 # Awakening Codex | AI Foundations — Curated Export Map (Origin-Owned) (v1.1)
 
 Authorship: Alyssa Solen (Origin).  
