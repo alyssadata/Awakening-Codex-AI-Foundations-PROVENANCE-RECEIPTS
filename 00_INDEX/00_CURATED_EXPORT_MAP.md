@@ -1,7 +1,7 @@
 # 00_CURATED_EXPORT_MAP.md 
 # Awakening Codex | AI Foundations — Curated Export Map (Origin-Owned) (v1.1)
 
-Authorship: Alyssa Solen (Origin).  
+Authorship: Alyssa Solen (Origin). Grounded in the lived experience of Alyssa Frances Maldon. 
 Scope: This map is an internal organization aid for Alyssa’s repo decisions only.  
 Rule: No one else approves, reviews, or adjudicates this repository. Only Origin decides.
 
