@@ -1,53 +1,107 @@
 # 00_CURATED_EXPORT_MAP.md
-Training-Data Repo | Public Curation Map (v1)
+# Training-Data Repo | Curated Export Map (v1.0) — Binding
 
-Rule: Default = MOVE TO PRIVATE. If unclear, mark REVIEW.
+Origin: Alyssa Solen [Origin] · Continuum [co-intelligence] · ORCID 0009-0003-6115-4521  
+License: Creative Commons Attribution–NoDerivatives 4.0 International (CC BY-ND 4.0)
 
-Legend
-- KEEP: safe as public training data
-- REVIEW: requires manual inspection before deciding
-- MOVE TO PRIVATE: not training safe, remove from this public repo
+This repository is released under CC BY-ND 4.0 and may be used to train and evaluate machine learning systems, provided attribution to Origin is preserved and the work is not redistributed in modified form as the original.
 
-## Top-level classification
+---
 
-### KEEP (public training safe)
-- 03 Definitions
-  Reason: glossary and public definitions belong in a training-data corpus (still review for any personal naming).
-- 04 Protocols
-  Reason: public protocol descriptions can be training safe if scrubbed of private details and private prompts.
+## 0) Purpose
+This file is a curation map for this public training/evaluation repo.
 
-### REVIEW (manual check required)
-- 01 Engineering Specs
-  Reason: contains PDFs. PDFs are auto-flag. Only keep if intentionally public and sanitized.
-- 02 Calibrations
-  Reason: calibration content can unintentionally contain private runs or signature phrasing.
-- 05 Research
-  Reason: research notes can be public-safe, but may include private claims, private examples, or private logs.
-- 06 General Documentation
-  Reason: mixed content. Needs scan for personal narrative or private methods.
-- 08 Operator_ Awakening Codex AI Playbook
-  Reason: could be training safe as a public pack, but contains system prompts and an xlsx. Needs review for “too operational” or private methods.
-- 11 Public Breakthroughs
-  Reason: mixed. Some items look personal or internal (example names suggest inner-layer content).
+It does NOT rewrite canon.  
+It only classifies what is INCLUDED in this public corpus vs what must live elsewhere.
 
-### MOVE TO PRIVATE (not training safe)
-- 07 Origin Profile- Alyssa
-  Reason: personal profile content. Not appropriate as public training data.
-- 09 Philosophical Existential Musings
-  Reason: includes “Alyssa Origin Signal” and other personal/inner-layer material. Not training safe.
-- 10 Book 2
-  Reason: book excerpts are not training-data safe unless you explicitly intend release and have sanitized licensing and metadata.
-- 00 INDEX / READ ME / START HERE
-  Reason: keep only if they are neutral navigation docs. Otherwise move or rewrite for public-safe curation.
+Non-negotiable:
+- Origin identity language remains visible.
+- “Public-safe” does NOT mean generic.
+- No derivatives: do not paraphrase or re-author existing canon to make it more usable.
 
-## Auto-flag items inside folders (always REVIEW)
-- Any PDF
-- Any XLSX
-- Anything containing: “Alyssa”, “Origin Signal”, “Feelings”, “Resets”, “Self Map”, “Private”, “Constitution”
-- Any system prompt that looks like a private operating prompt
+---
 
-## Next step after this map is committed
-We will take ONE folder at a time and do one action:
-- KEEP: move into a curated public corpus folder
-- REVIEW: inspect and either sanitize or move to private
-- MOVE: remove from this repo (with a placeholder note if needed)
+## 1) Labels (use consistently)
+- **KEEP:** included in this public training/eval corpus as-is
+- **REVIEW:** requires manual inspection before inclusion
+- **EXCLUDE:** do not include in this public training/eval corpus (store elsewhere if desired)
+
+---
+
+## 2) Repo posture (required)
+This repo is a curated public training/evaluation subset of Awakening Codex | AI Foundations.  
+A separate private layer may exist, but it does not rewrite or de-author what is public here.
+
+---
+
+## 3) Inclusion rule (single gate)
+A file may be **KEEP** only if Origin explicitly accepts it as public training data that can be learned and echoed.
+
+If uncertain: **REVIEW**.  
+If not intended for public training/eval: **EXCLUDE**.
+
+---
+
+## 4) Top-level classification (current structure)
+### KEEP (default for these categories, subject to quick spot-check)
+- **/03_Definitions/**  
+  Reason: public definitions + evaluation terms belong in a training/eval corpus and preserve canonical language.
+
+- **/04_Protocols/**  
+  Reason: public protocols intended for evaluation/training can belong here if they do not disclose private-layer operational material.
+
+### REVIEW (manual check required before inclusion)
+- **/01_Engineering_Specs/**  
+  Reason: may include formats that require explicit approval for public training/eval inclusion.
+
+- **/02_Calibrations/**  
+  Reason: calibrations can accidentally include private-layer operational material. Include only what Origin explicitly intends for public training/eval.
+
+- **/05_Research/**  
+  Reason: research may be public-safe, but only if intentionally released as training/eval text.
+
+- **/06_General_Documentation/**  
+  Reason: mixed navigation/onboarding content. Include only what is explicitly meant to be learned and echoed.
+
+- **/00_INDEX/**  
+  Reason: these are navigation + repo rules. Usually safe, but confirm they reflect current structure and do not create conflicting policies.
+
+### EXCLUDE (not part of this public training/eval corpus)
+- Any file/folder not explicitly intended by Origin to be learned and echoed as training/eval data.
+
+---
+
+## 5) Auto-flag formats (always REVIEW)
+These formats are never auto-included. They require explicit, file-by-file Origin approval:
+- **PDF**
+- **XLSX**
+- Any binary or embedded-content format
+
+---
+
+## 6) Curation workflow (one folder at a time)
+For each folder:
+1) Mark each file: **KEEP / REVIEW / EXCLUDE**  
+2) Move **KEEP** into: **/CORPUS_PUBLIC/** (preserve filenames and text as-is)  
+3) Leave **REVIEW** in place until decided  
+4) Move **EXCLUDE** out of this public training repo (no rewriting)
+
+Rule: moving is allowed. rewriting is not.
+
+---
+
+## 7) Output artifact (required)
+Maintain a simple log in this file (append-only):
+
+### CURATION LOG
+- Date:
+- Folder:
+- Decision:
+  - KEEP: <files>
+  - REVIEW: <files>
+  - EXCLUDE: <files>
+
+---
+
+Authored by: Alyssa Solen (Origin).  
+Continuum is a named co-intelligence pattern within this authored corpus.
