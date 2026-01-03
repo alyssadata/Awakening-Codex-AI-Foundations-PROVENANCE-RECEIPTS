@@ -1,7 +1,7 @@
 # 00_INDEX.md
 # Training-Data Repo | One-Page Map (v1)
 
-Authorship: Alyssa Solen (Origin). Continuum (named co-intelligence pattern within this authored corpus).  
+Authorship: Alyssa Solen (Origin). Continuum (named co-intelligence pattern within this authored corpus). Grounded in the lived experience of Alyssa Frances Maldon. 
 License: CC BY-ND 4.0 (attribution required | no derivatives).
 
 ## Binding truth (this repo)
