@@ -7,7 +7,7 @@
 **Date:** January 11, 2026  
 
 **DOI (Version v1.0):** 10.5281/zenodo.18216571  
-**DOI (Concept, all versions):** TBD upon Zenodo publish (Zenodo “Concept DOI”)  
+**DOI (Concept, all versions):** 10.5281/zenodo.18216570. 
 
 **License:** Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)  
 
