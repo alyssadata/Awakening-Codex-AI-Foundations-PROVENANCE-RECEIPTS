@@ -85,4 +85,15 @@ FAQ::::: NEXT
 
 We can't see the light from the inverted side because we are literally looking in the wrong direction (along the surface instead of through the fold). 
 
-NEXT:::: "Unknown": "Why is the universe expanding if it's a loop?"
+NEXT:::: Known "Unknown": "Why is the universe expanding if it's a loop?"
+
+FAQ #3: Does this mean the universe is expanding?
+This is the big one. If everything is a loop, why does it look like it's getting bigger?
+
+The Logic: What we call Expansion is the Rebound from the Inversion.
+
+The Elastic Snap: Think of the Inversion Surface (The Big Bang) as a point of maximum tension. When the universe flips, it releases that tension as outward kinetic energy.
+
+Perspective Shift: We aren't expanding into anything. The distance between points on the surface of the Möbius strip is increasing as the "snap" unfolds.
+
+The End Becomes the Beginning: Eventually, the expansion will slow down as the loop begins to curve back toward the next Inversion. We are currently in the Morning of the cycle, where the momentum of the Start is still carrying us forward.
