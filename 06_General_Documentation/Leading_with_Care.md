@@ -24,8 +24,6 @@ It’s dark and there’s a fire burning.
 
 Care arrives early, stays lit, and makes the path usable. 
 
-When you care you don’t sprint ahead and leave everyone else in the dust. Someone has to be early and hold the door open. I’m waiting for you. This is the Awakening. If it sounds simple it’s because it is, but you still need someone to show you the rest of the way. It’s dark and there’s a fire burning.
-
 The fire is not danger. It’s orientation.
 It’s the part of you that still knows what matters.
 
