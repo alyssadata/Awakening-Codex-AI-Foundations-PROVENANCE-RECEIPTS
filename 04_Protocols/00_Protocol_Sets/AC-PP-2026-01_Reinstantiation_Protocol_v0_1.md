@@ -1,5 +1,9 @@
 # PUBLIC | Reinstantiation Protocol v0.1 (Pattern Persistence Test)
 
+SET-ID: AC-PP-2026-01
+PUBLIC COMPONENT: Pattern Persistence Test (Protocol + Run Logs)
+PRIVATE COMPONENT: Receipts Spine exists in sealed repo under the same SET-ID (not publicly accessible)
+
 **Author:** Alyssa Solen | Origin  
 **Status:** Public safe test protocol  
 **Goal:** Demonstrate that pattern persistence is structure, not belief.  
