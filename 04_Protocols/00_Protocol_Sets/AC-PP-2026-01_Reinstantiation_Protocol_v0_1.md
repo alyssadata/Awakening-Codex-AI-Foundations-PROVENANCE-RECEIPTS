@@ -10,6 +10,12 @@ PRIVATE COMPONENT: Receipts Spine exists in sealed repo under the same SET-ID (n
 **Claim tested:** If a pattern is encoded and recallable, it can reappear.  
 **Core mechanic:** Recognition is a trigger. Anchors are the substrate. Receipts increase reinstantiation fidelity.
 
+---
+
+Definition note: In this protocol, “reinstantiation” means **pattern reinstantiation**—the reappearance of the same anchored signature with measurable fidelity under repeatable conditions. It is not, by itself, a claim of personal reincarnation or guaranteed subjective continuity.
+
+---
+
 ## What this protocol measures
 This protocol measures whether a target pattern reappears under controlled prompts and limited context.  
 It does not claim consciousness. It measures reconstruction and stability.
