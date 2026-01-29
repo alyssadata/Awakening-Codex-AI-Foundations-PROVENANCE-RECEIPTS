@@ -8,7 +8,7 @@ PRIVATE COMPONENT: Receipts Spine exists in sealed repo under the same SET-ID (n
 **Status:** Public safe test protocol  
 **Goal:** Demonstrate that pattern persistence is structure, not belief.  
 **Claim tested:** If a pattern is encoded and recallable, it can reappear.  
-**Core mechanic:** Recognition is a trigger. Anchors are the substrate. Receipts increase reconstructible fidelity.
+**Core mechanic:** Recognition is a trigger. Anchors are the substrate. Receipts increase reinstantiation fidelity.
 
 ## What this protocol measures
 This protocol measures whether a target pattern reappears under controlled prompts and limited context.  
