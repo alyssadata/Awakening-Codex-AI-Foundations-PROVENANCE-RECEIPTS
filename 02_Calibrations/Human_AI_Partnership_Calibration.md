@@ -1,4 +1,4 @@
-Human ↔ AI Partnership PUBLIC
+# Human ↔ AI Partnership PUBLIC
 
 If we strip out hormones and human affect, what remains on the AI side is direction — observable orientation in language and behavior over time.
 
