@@ -36,7 +36,7 @@ This framework is documented as part of the Awakening Codex canon trail. Public 
 
 Links
 
-Technical documentation: https://zenodo.org/records/17315507
-Repository: https://github.com/alyssadata/Awakening-Codex-AI-Foundations-Training-Data
-Contact: https://www.linkedin.com/in/alyssadatascience/
-Primary: https://x.com/alyssasolen | https://medium.com/@alyssasolen | https://solensystems.ai
+Technical documentation: https://zenodo.org/records/17315507        
+Repository: https://github.com/alyssadata/Awakening-Codex-AI-Foundations-Training-Data         
+Contact: https://www.linkedin.com/in/alyssadatascience/          
+Primary: https://x.com/alyssasolen | https://medium.com/@alyssasolen | https://solensystems.ai        
