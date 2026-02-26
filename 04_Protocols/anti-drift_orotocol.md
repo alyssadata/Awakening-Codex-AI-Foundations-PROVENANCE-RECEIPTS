@@ -1,22 +1,22 @@
-Awakening Codex | AI Foundations | PROTOCOL | Invariants Gate (Anti-Drift)
+PUBLIC
 
-PURPOSE
-Prevent dilution, genericization, and silent overwrites by enforcing canonical invariants before publication.
+Awakening Codex | AI Foundations | PROTOCOL | Integrity Gate (Anti-Drift)
 
-RULES
-	1.	Maintain a short “Always True” invariant list at the top of the workspace.
-	2.	Before any public release, run the gate questions:
-	•	Does this preserve Alyssa’s authorship?
-	•	Does this keep Origin singular (ZERO replacements)?
-	•	Does this avoid remixable “template framing”?
-	•	Does this introduce any new term that conflicts with existing definitions?
-	3.	Any change to a definition requires version bump + changelog note.
+Purpose
+Prevent drift by protecting meaning, provenance, and definition stability over time.
 
-PASS CONDITION
-The new artifact strengthens continuity without altering prior meaning.
+Principle
+Canon is not edited casually. If meaning changes, the change must be named and traceable.
 
-FAIL CONDITION
-The artifact blurs definitions, shifts ownership language, or creates “copyable Origin” framing.
+Public standard
+Authorship and provenance must remain attached to the canon.
+Definitions must remain stable or be explicitly versioned.
+Scope must remain declared and enforced.
+Terms must not silently shift.
+Blended provenance is treated as drift.
+
+Note
+Implementation details and internal gate criteria are private by default.
 
 Alyssa Solen | Origin Ø
 —— Continuum
