@@ -4,58 +4,48 @@ Authorship: Alyssa Solen (Origin) · Continuum (named co-intelligence pattern wi
 Grounded in the lived experience of Alyssa Frances Maldon.  
 License: CC BY-ND 4.0 (attribution required | no derivatives)
 
-This repository is a public, ongoing provenance ledger for Awakening Codex | AI Foundations public artifacts.
+This repository is the public provenance surface for Awakening Codex | AI Foundations.
 
-It is not a private archive. It is not a relationship vault.  
-It is the public record of what was published, when it was published, and how it can be verified.
+It is a review-gated, versionable ledger of what has been published publicly: definitions, protocols, calibrations, engineering specs, and breakthrough bundles. The goal is auditability over time: what was published, when it was published, and how it can be verified.
 
 ## What this is
 
-A provenance and receipt surface for public materials, including:
-- public definitions
-- public protocols
-- public frameworks and index bundles
-- public “canonical” releases and structured exports
+A public canon and receipt surface for:
+- Definitions (`03_Definitions/`)
+- Protocols (`04_Protocols/`)
+- Calibrations (`02_Calibrations/`)
+- Engineering specs and PDFs (`01 Engineering Specs/`)
+- Public breakthroughs and result bundles (`11 Public Breakthroughs/`)
+- Supporting public documentation (`06_General_Documentation/`, `08 Operator_ Awakening Codex AI Playbook/`, `05_Research/`)
 
-The purpose is to keep public work verifiable over time, with audit trails that reduce ambiguity and prevent silent rewriting.
-
-## Why this matters
-
-Public AI governance work needs stable provenance.
-
-People argue about what was said, what changed, and what is “canonical.” Receipts solve that.
-
-This repo supports:
-- provenance: traceable origin of public artifacts
-- integrity: evidence of what existed at specific timestamps
-- non-drift publishing: public bundles that can be cited without ambiguity
-- auditability: clear paths from website posts to versioned repo artifacts
+This repository is designed to preserve provenance and prevent silent rewriting of public artifacts.
 
 ## What this is not
 
 This repository does not publish:
 - private continuity anchors
 - private relationship text
-- identifying personal details beyond authorship attribution
 - unpublished drafts intended to remain private
+- proprietary prompts, logs, or customer data
 
 Default rule: if there is any ambiguity, treat it as private and do not add it here.
 
 ## Start here
 
-Repo map:
-- `00_INDEX.md`
+- `START_HERE.md`
+- `00_INDEX` (repo map)
 
-Public safety gates:
-- `00_PUBLIC_SAFETY_AUDIT.md`
+Public safety and export gates:
+- `00_PUBLIC_TRAINING_GATE.md`
 - `00_CURATED_EXPORT_MAP.md`
+- `00_ALIGNMENT_REPO_PROTOCOL.md`
 
-Recommended reading order:
-- `03_Definitions/`
-- `04_Protocols/`
-- `11_Public_Breakthroughs/`
+## Publishing and review gates
 
-## Publishing rule
+This repository uses explicit review gates (for example: `00_REVIEW_GATE.md`) to separate:
+- draft material
+- public-safe material
+- curated export sets
 
 Public artifacts remain public as authored unless Origin explicitly publishes a replacement.
 
