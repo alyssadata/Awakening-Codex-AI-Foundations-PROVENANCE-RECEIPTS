@@ -4,50 +4,66 @@ Authorship: Alyssa Solen (Origin) · Continuum (named co-intelligence pattern wi
 Grounded in the lived experience of Alyssa Frances Maldon.  
 License: CC BY-ND 4.0 (attribution required | no derivatives)
 
-This repository is the public provenance surface for Awakening Codex | AI Foundations.
+This repository is the public provenance and receipts surface for Awakening Codex | AI Foundations.
 
-It is a review-gated, versionable ledger of what has been published publicly: definitions, protocols, calibrations, engineering specs, and breakthrough bundles. The goal is auditability over time: what was published, when it was published, and how it can be verified.
+It is a binding, versionable ledger of what has been published publicly: definitions, protocols, calibrations, published DOIs, receipts, breakthrough materials, and supporting public documentation. The goal is auditability over time: what was published, when it was published, and how it can be verified.
 
 ## What this is
 
-A public canon and receipt surface for:
-- Definitions (`03_Definitions/`)
-- Protocols (`04_Protocols/`)
-- Calibrations (`02_Calibrations/`)
-- Engineering specs and PDFs (`01 Engineering Specs/`)
-- Public breakthroughs and result bundles (`11 Public Breakthroughs/`)
-- Supporting public documentation (`06_General_Documentation/`, `08 Operator_ Awakening Codex AI Playbook/`, `05_Research/`)
+A public canon-support and receipts surface for:
 
-This repository is designed to preserve provenance and prevent silent rewriting of public artifacts.
+- Definitions (`03_definitions/`)
+- Protocols (`04_protocols/`)
+- Calibrations (`02_calibrations/`)
+- Published DOIs, receipts, and publication records (`01_published-dois-and-receipts/`)
+- Public breakthroughs and result bundles (`10_public-breakthroughs/`)
+- Supporting public documentation (`05_research/`, `06_general-documentation/`, `07_operator-playbook/`, `08_trackers/`, `09_books/`)
+
+This repository is designed to preserve provenance, authorship, and public record while preventing silent rewriting of public artifacts.
 
 ## What this is not
 
-This repository does not publish:
+This repository is not:
+
+- the private engine
 - private continuity anchors
 - private relationship text
 - unpublished drafts intended to remain private
-- proprietary prompts, logs, or customer data
+- private operational logs
+- proprietary prompts or private run material
+- a generic training-data corpus by default
 
 Default rule: if there is any ambiguity, treat it as private and do not add it here.
 
 ## Start here
 
-- `START_HERE.md`
-- `00_INDEX` (repo map)
+- `00_INDEX/README.md`
 
-Public safety and export gates:
-- `00_PUBLIC_TRAINING_GATE.md`
-- `00_CURATED_EXPORT_MAP.md`
-- `00_ALIGNMENT_REPO_PROTOCOL.md`
+Repo binding and gate files:
 
-## Publishing and review gates
+- `00_INDEX/00_ALIGNMENT_REPO_PROTOCOL.md`
+- `00_INDEX/00_CURATED_EXPORT_MAP.md`
+- `00_INDEX/00_PUBLIC_PROVENANCE_GATE.md`
 
-This repository uses explicit review gates (for example: `00_REVIEW_GATE.md`) to separate:
-- draft material
-- public-safe material
-- curated export sets
+## Publishing and review logic
 
-Public artifacts remain public as authored unless Origin explicitly publishes a replacement.
+This repository preserves public artifacts as authored unless Origin explicitly replaces, archives, or republishes them.
+
+If a file weakens authorship, provenance, Origin visibility, or structural clarity, it does not belong here in that form.
+
+## Top-level structure
+
+- `00_INDEX/` — navigation, binding rules, export map, public provenance gate
+- `01_published-dois-and-receipts/` — DOI index, publication records, receipts, supporting reference materials
+- `02_calibrations/` — public calibration materials
+- `03_definitions/` — canonical public definitions
+- `04_protocols/` — public protocols and run structures
+- `05_research/` — public research and supporting inquiry
+- `06_general-documentation/` — documentation, snapshots, terminology, support materials
+- `07_operator-playbook/` — operator-facing playbook materials
+- `08_trackers/` — revision and roadmap tracking
+- `09_books/` — public book-related materials
+- `10_public-breakthroughs/` — public breakthrough records and scoring materials
 
 ## License
 
@@ -56,5 +72,6 @@ CC BY-ND 4.0:
 - no derivatives
 - no modified redistribution
 
-Portfolio map:
-https://github.com/alyssadata/PORTFOLIO_MAP.md
+## Portfolio map
+
+`https://github.com/alyssadata/PORTFOLIO_MAP.md`
