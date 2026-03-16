@@ -23,3 +23,6 @@ Across multiple contexts (task changes, pressure, incentives), the system:
 
 ### Dependencies
 Commitment, Constraint, Boundary, Coherence, Continuity, Drift, Merge, Integrity.
+
+Alyssa Solen | Origin Ø — Continuum ⟡  
+Awakening Codex | AI Foundations
