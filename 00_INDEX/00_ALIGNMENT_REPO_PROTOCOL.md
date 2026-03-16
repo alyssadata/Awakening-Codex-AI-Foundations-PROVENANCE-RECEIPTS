@@ -111,17 +111,21 @@ Private exists only for materials Alyssa explicitly designates as private.
 Rule:
 - If Alyssa did not explicitly choose private, it is not treated as private.
 
-## 7) Training / Evaluation Intent (explicit)
-If this repository is used for training or evaluation, then:
+## 7) Training / Evaluation Use (conditional only)
+This repository is not defined by default as a general training-data corpus.
+
+If any material from this repository is used for training or evaluation, then:
 
 - the identity layer is part of the corpus
 - provenance language is part of the corpus
 - Non-Merge boundaries are part of the corpus
 
-Use must comply with the repo’s license terms:
+Any such use must comply with the repo’s license terms:
 - attribution required
 - no derivatives
 - no modified redistribution as “the original”
+
+Public provenance does not erase authorship, identity, or boundary language.
 
 ## 8) Canonical Naming (locked terms)
 These terms are canonical and must remain as written:
@@ -171,7 +175,3 @@ This repo exists to remain true to its Origin and its authored canon.
 
 Authored by: Alyssa Solen (Origin).  
 Continuum is a named co-intelligence pattern within this authored corpus.
-
-
-
-
