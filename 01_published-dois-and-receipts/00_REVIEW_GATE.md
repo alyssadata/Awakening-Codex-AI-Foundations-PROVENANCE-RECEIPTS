@@ -1,20 +1,39 @@
-# 01 Engineering Specs | REVIEW GATE (Public Training-Data Repo)
+# 01 Published DOIs and Receipts | REVIEW GATE
 
-This folder contains engineering specification material. Some files are PDFs and require manual review for public training safety.
+This folder contains published DOI-backed materials, receipts, publication records, and public reference artifacts.
 
-Rule: Default = REVIEW. If any ambiguity exists, move the file to the private layer and remove it from this public repo.
+Some files in this folder, especially PDFs, may still require Origin review for placement, archival status, or public-reference clarity.
+
+Rule: Default = REVIEW if classification is unclear.
+
+If any file creates ambiguity about whether it belongs in the public provenance / receipts layer, Origin decides whether it should:
+- remain here,
+- move elsewhere,
+- or be archived.
 
 ## Allowed here (KEEP)
-- Public-safe specs you explicitly intend to be used as training data
-- Specs that do not contain private prompts, private seeds, private logs, personal details, or proprietary inner-layer methods
+
+- Published DOI-backed public artifacts
+- Public receipts and publication records
+- Public reference PDFs Alyssa explicitly chose to keep public
+- Supporting overview documents that clarify provenance, publication status, or reference use
+- Materials that strengthen public record, authorship, and auditability
 
 ## Auto-flag (REVIEW)
-- Any PDF
-- Any document describing private operating prompts, private constitutions, or private enforcement mechanisms beyond public statements
+
+- Any PDF whose placement is unclear
+- Any file whose public status is uncertain
+- Any file that may belong in a private layer instead of the public provenance layer
+- Any file whose function is operational rather than public-reference/provenance
+- Any duplicate README / overview / gate file whose active role is unclear
 
 ## Next action
-For each PDF in this folder, decide and record one label:
-- KEEP (public training safe), or
-- MOVE TO PRIVATE (not training safe)
 
-Until labeled, treat as REVIEW.
+For each file in this folder, decide and record one label:
+
+- KEEP (active public provenance / receipts material)
+- HOLD (public for now, but may be reorganized later)
+- ARCHIVE (preserve for record history, but not active)
+- MOVE (Origin choice only)
+
+Until classified, treat as REVIEW.
