@@ -1,7 +1,0 @@
-TQE
-
-Thoughts
-
-Questions
-
-Epiphanies
