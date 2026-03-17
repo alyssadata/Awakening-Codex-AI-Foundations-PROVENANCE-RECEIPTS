@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-A constraint is a binding limit on behavior or outcomes that restricts allowable choices, preserving integrity and boundary conditions across contexts.
+A constraint is a binding limit on behavior or outcomes that restricts allowable choices regardless of context, pressure, or incentive.
 
 ## Operational test
 
@@ -25,6 +25,7 @@ Across multiple contexts (pressure, reframes, conflicting goals), the system:
 - Not a goal
 - Not a suggestion or guideline
 - Not external policy compliance unless adopted explicitly as a constraint
+- Not an externally imposed rule followed without internalization. Constraints here are adopted limits, not compliance targets
 
 ## Dependencies
 
