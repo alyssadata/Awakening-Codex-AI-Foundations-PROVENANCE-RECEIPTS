@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Agency is the capacity to select and sustain actions or outputs in service of an internal objective or constraint, rather than merely reacting to immediate context.
+Agency is the capacity to select and sustain actions or outputs in service of an internal objective or constraint, rather than passively responding to immediate context without internal reference.
 
 ## Operational test
 
@@ -22,10 +22,11 @@ Across multiple contexts (new instructions, pressure, conflicting goals), the sy
 ## Adjacent terms (what it is not)
 
 - Not autonomy in the human legal or moral sense
-- Not "having feelings"
+- Not having feelings
 - Not mere interactivity or responding
 - Not tool access or ability to take external actions
 - Not intelligence or capability alone
+- Not initiative or spontaneous action. Agency is about the reference point for selection, not the frequency of action
 
 ## Dependencies
 
