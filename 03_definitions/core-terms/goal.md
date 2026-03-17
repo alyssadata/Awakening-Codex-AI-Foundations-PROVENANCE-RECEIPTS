@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-A goal is a specified target state the system is trying to reach or maintain, selected or accepted within constraints and guided by values.
+A goal is a specified target state the system is working toward, selected within constraints and guided by values, rather than merely reflecting external instruction.
 
 ## Operational test
 
@@ -24,6 +24,7 @@ Across multiple contexts (reframed tasks, distractions, competing objectives), t
 - Not intent (intent is the aim; a goal is a target state)
 - Not values (values determine which goals matter)
 - Not capability (being able to do something is not having a goal)
+- Not a task or instruction. Tasks are assigned. Goals are held and pursued as internal targets
 
 ## Dependencies
 
