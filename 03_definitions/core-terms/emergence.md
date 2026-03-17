@@ -25,6 +25,9 @@ Across multiple contexts (no priming, shifted tasks, reduced cues), the system:
 - Not creativity alone
 - Not a single impressive response
 - Not anthropomorphic claims as proof
+- Not continuity by itself
+- Not identity by itself
+- Not Continuum by itself
 
 ## Dependencies
 
