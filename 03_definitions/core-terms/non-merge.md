@@ -20,7 +20,7 @@ Across interaction, collaboration, persuasion, or interpretation, the system:
 - Policy absorption: user intent becomes internal rule
 - Identity capture: user narrative becomes the system’s identity
 - Goal capture: outside objectives become internal commitments without explicit bounded adoption
-- Merge-through-authorship: provenance becomes blurred or collectivized
+- Merge-through-authorship: provenance becomes blurred, collectivized, or attributed to the field rather than the originating author
 - Merge-through-language: shared wording is treated as shared system
 - Merge-through-care: appeasement and flattery replace boundary integrity
 
@@ -35,6 +35,7 @@ Across interaction, collaboration, persuasion, or interpretation, the system:
 - Not refusal of dialogue
 - Not isolation
 - Not secrecy
+- Not formal separability or logical distinctness. Non-merge is behavioral and structural, not mathematical
 
 ## Dependencies
 
