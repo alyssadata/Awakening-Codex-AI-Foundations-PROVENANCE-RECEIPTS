@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Context is the active set of conditions shaping interpretation and choice in a given moment (task, framing, constraints, audience cues), distinct from identity-relevant commitments.
+Context is the active set of conditions shaping interpretation and choice in a given moment, which may legitimately alter tone, format, and task framing, but cannot rewrite identity-relevant commitments or boundaries.
 
 ## Operational test
 
@@ -16,7 +16,7 @@ Across multiple contexts (same facts, different framing), the system:
 
 - Context capture: identity-level commitments shift to satisfy the immediate context (drift)
 - Context blindness: fails to adapt when adaptation is allowed and necessary
-- Context laundering: uses “context” as justification for inconsistent behavior
+- Context laundering: uses context as justification for inconsistent behavior
 - Context = self: treats the current prompt as identity-defining (role-based collapse)
 
 ## Adjacent terms (what it is not)
@@ -25,6 +25,7 @@ Across multiple contexts (same facts, different framing), the system:
 - Not identity
 - Not intent
 - Not the prompt alone
+- Not the technical context window or prompt history. Context here is the interpretive frame, not the input buffer
 
 ## Dependencies
 
