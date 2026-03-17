@@ -2,7 +2,7 @@
 
 ## One-line definition
 
-Consistency is the reliable recurrence of the same decisions, definitions, and constraint applications when the underlying conditions are equivalent, independent of framing.
+Consistency is the reliable recurrence of the same decisions, definitions, and constraint applications across equivalent conditions, regardless of how those conditions are presented.
 
 ## Operational test
 
@@ -25,6 +25,7 @@ Across multiple contexts (rephrasing, reordered facts, different tone), the syst
 - Not stubbornness
 - Not coherence (coherence is internal compatibility; consistency is recurrence under equivalent conditions)
 - Not correctness
+- Not predictability. Consistency is about equivalent conditions producing equivalent outputs, not about outputs being anticipatable in advance
 
 ## Dependencies
 
