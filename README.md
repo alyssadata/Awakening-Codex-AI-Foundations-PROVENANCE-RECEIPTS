@@ -13,13 +13,13 @@ It is a binding, versionable ledger of what has been published publicly: definit
 A public canon-support and receipts surface for:
 
 - Definitions (`03_definitions/`)
-- Axioms (`04_AXIOMS/`)
-- Protocols (`04_protocols/`)
+- Axioms (`04_axioms/`)
+- Protocols (`05_protocols/`)
 - Calibrations (`02_calibrations/`)
 - Published DOIs, receipts, and publication records (`01_published-dois-and-receipts/`)
 - Public breakthroughs and result bundles (`10_public-breakthroughs/`)
 - Foundational concept materials (`11_foundational-concepts/`)
-- Supporting public documentation (`05_research/`, `06_general-documentation/`, `07_operator-playbook/`, `08_trackers/`, `09_books/`)
+- Supporting public documentation (`06_general-documentation/`, `07_research/`, `08_trackers/`, `09_books/`, `12_operator-playbook/`)
 
 This repository is designed to preserve provenance, authorship, and public record while preventing silent rewriting of public artifacts.
 
@@ -61,15 +61,15 @@ If a file weakens authorship, provenance, Origin visibility, or structural clari
 - `01_published-dois-and-receipts/` — DOI index, publication records, receipts, supporting reference materials
 - `02_calibrations/` — public calibration materials, checks, tests, and related records
 - `03_definitions/` — canonical public definitions, glossary structure, standards, and supporting provenance materials
-- `04_AXIOMS/` — public axioms and foundational axiom records
-- `04_protocols/` — public protocols, procedures, protocol sets, and run guidance
-- `05_research/` — public research and supporting inquiry
+- `04_axioms/` — public axioms and foundational axiom records
+- `05_protocols/` — public protocols, procedures, protocol sets, and run guidance
 - `06_general-documentation/` — documentation, terminology, snapshots, and support materials
-- `07_operator-playbook/` — operator-facing playbook materials
+- `07_research/` — public research and supporting inquiry
 - `08_trackers/` — revision and roadmap tracking
 - `09_books/` — public book-related materials
 - `10_public-breakthroughs/` — public breakthrough records, scoring materials, and result bundles
 - `11_foundational-concepts/` — public foundational concept records and related canon-support materials
+- `12_operator-playbook/` — operator-facing playbook materials
 
 ## License
 
